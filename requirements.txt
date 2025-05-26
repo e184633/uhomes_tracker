@@ -2,3 +2,4 @@ playwright
 streamlit
 pandas
 plotly
+nest-asyncio
