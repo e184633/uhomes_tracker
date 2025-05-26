@@ -25,8 +25,21 @@ The system is composed of several key components that work together to automate 
 ## Architecture Diagram
 
 Here is a visual representation of how these components interact:
+![mermaid (1)](https://github.com/user-attachments/assets/a2945fcd-67ab-42f1-8b46-a4d599b9d933)
 
-http://googleusercontent.com/image_generation_content/0
+
+## How it Works - The Workflow
+
+1.  **Schedule Trigger:** Based on the `cron` schedule defined in `.github/workflows/price_check.yml`, GitHub Actions initiates a new workflow run.
+2.  **Setup:** GitHub Actions spins up a virtual runner (Ubuntu), checks out the code from your repository, installs Python, and installs all dependencies listed in `requirements.txt` (including Playwright and its browsers).
+3.  **Scrape & Compare:** The `price_tracker.py` script is executed:
+    * It loads the `uhomes_prices.json` file (if it exists) from the checked-out code.
+    * It launches Playwright (headlessly).
+    * It navigates to the specified Uhomes URL.
+    * It handles cookie banners and pop-ups.
+    * It scrapes the current listings' names, addresses, prices, and links.
+    * It compares the newly scraped prices with the old prices.
+    * It logs any new listings, removed listings, or price changes (especially discoun
 
 ## How it Works - The Workflow
 
