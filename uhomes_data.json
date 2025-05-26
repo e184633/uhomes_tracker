@@ -1,0 +1,184 @@
+[
+    {
+        "name": "The Other House South Kensington",
+        "address": "15-17 Harrington Gardens, South Kensington, London SW7 4JJ, United Kingdom",
+        "price_per_week": "£1,050",
+        "amenities": [
+            " Student Accommodation",
+            "Bills included",
+            "24 hours security",
+            "Gym",
+            "Parcels collect"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1591606?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Fifty One London",
+        "address": "Cromwell Road, London SW7 2EH, United Kingdom",
+        "price_per_week": "£828",
+        "amenities": [
+            " Verified",
+            " Student Accommodation",
+            "Free regular cleaning",
+            "Bills included",
+            "Furnished",
+            "Brand new",
+            "Parcels collect",
+            "CINEMA",
+            "Double Occupancy(Free)",
+            "Elevator"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1655401?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Scape Kings Cross",
+        "address": "30 Thanet Street, London WC1H 9QH, United Kingdom",
+        "price_per_week": "£689.02",
+        "amenities": [
+            " Verified",
+            " Student Accommodation",
+            "Near railway station",
+            "Walk to school",
+            "Near bus station",
+            "Parcels collect",
+            "Bills included",
+            "Elevator"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1515952?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "iQ Bloomsbury",
+        "address": "200 Euston Road, London NW1 2FA, United Kingdom",
+        "price_per_week": "£666.02",
+        "amenities": [
+            " Verified",
+            " Student Accommodation",
+            "Referral Bonus",
+            "25/26 AY Cladding work",
+            "Double Occupancy(Free)",
+            "Parcels collect",
+            "Bills included",
+            "24 hours security",
+            "Near Subway",
+            "Near railway station"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-18399?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Gob Spitalfields Residence",
+        "address": "9 Frying Pan Alley, London E1 7HS, United Kingdom",
+        "price_per_week": "£599",
+        "amenities": [
+            " Verified",
+            " Student Accommodation",
+            "Bills included",
+            "CINEMA",
+            "Short lease",
+            "Gym",
+            "Elevator",
+            "Parcels collect"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1499412?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Lit Westminster Residence",
+        "address": "200A Lambeth Road, London SE1 7LR, United Kingdom",
+        "price_per_week": "£590",
+        "amenities": [
+            " Student Accommodation",
+            "No Deposit",
+            "Bills included",
+            "Gym",
+            "Elevator"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1637536?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Gob Aldgate Residence",
+        "address": "1-2 Education Square, London E1 1FA, United Kingdom",
+        "price_per_week": "£580",
+        "amenities": [
+            " Student Accommodation",
+            "Walk to school",
+            "24 hours security",
+            "Bills included",
+            "Gym",
+            "Parcels collect",
+            "Elevator",
+            "Short lease",
+            "Double Occupancy(Free)"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1455053?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Gob Westminster Residence",
+        "address": "200A Lambeth Road, London SE1 7LR, United Kingdom",
+        "price_per_week": "£575",
+        "amenities": [
+            " Student Accommodation",
+            "Bills included",
+            "Gym"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1669249?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Lit Old Street Residence",
+        "address": "18 Paul Street, London EC2A 4JH, United Kingdom",
+        "price_per_week": "£575",
+        "amenities": [
+            " Verified",
+            " Student Accommodation",
+            "No Deposit",
+            "Bills included",
+            "Walk to school",
+            "Parcels collect",
+            "Gym"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1487788?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Lit Spitalfields Residence",
+        "address": "9 Frying Pan Alley, London E1 7HS, United Kingdom",
+        "price_per_week": "£575",
+        "amenities": [
+            " Verified",
+            " Student Accommodation",
+            "No Deposit",
+            "Parcels collect",
+            "Gym"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1487782?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Gob Kings Cross Residence",
+        "address": "200 Pentonville Road, London N1 9JP, United Kingdom",
+        "price_per_week": "£565",
+        "amenities": [
+            " Verified",
+            " Student Accommodation",
+            "Bills included",
+            "Gym",
+            "Elevator",
+            "Parcels collect",
+            "Short lease"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-1455064?schoolunique=imperial-college-london-icl"
+    },
+    {
+        "name": "Kirby Street Residence",
+        "address": "36-43 Kirby Street, London EC1N 8TE, United Kingdom",
+        "price_per_week": "£564",
+        "amenities": [
+            " Verified",
+            " Student Accommodation",
+            "Bills included",
+            "Gym",
+            "Near school bus",
+            "24 hours security",
+            "Parcels collect",
+            "Elevator",
+            "Short lease"
+        ],
+        "link": "https://en.uhomes.com/uk/london/detail-apartments-13763?schoolunique=imperial-college-london-icl"
+    }
+]
