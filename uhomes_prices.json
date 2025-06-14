@@ -3,10 +3,6 @@
         "name": "Fifty One London",
         "price": 839.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
-        "name": "Downing The Lyra",
-        "price": 327.0
-    },
     "https://en.uhomes.com/uk/london/detail-apartments-793913?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Ealing",
         "price": 345.0
@@ -46,5 +42,9 @@
     "https://en.uhomes.com/uk/london/detail-apartments-1561252?schoolunique=imperial-college-london-icl": {
         "name": "County Hall Apartment",
         "price": 375.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-1504453?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Vega",
+        "price": 408.0
     }
 }
