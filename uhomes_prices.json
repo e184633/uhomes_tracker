@@ -9,11 +9,11 @@
     },
     "https://en.uhomes.com/uk/london/detail-apartments-793913?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Ealing",
-        "price": 276.0
+        "price": 325.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-13897?schoolunique=imperial-college-london-icl": {
         "name": "iQ Hammersmith",
-        "price": 437.0
+        "price": 495.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-29064?schoolunique=imperial-college-london-icl": {
         "name": "Chelsea Lightfoot Hall",
@@ -21,7 +21,7 @@
     },
     "https://en.uhomes.com/uk/london/detail-apartments-18585?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Portobello",
-        "price": 250.0
+        "price": 297.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-726004?schoolunique=imperial-college-london-icl": {
         "name": "Chapter White City",
@@ -45,6 +45,6 @@
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1504453?schoolunique=imperial-college-london-icl": {
         "name": "iQ Vega",
-        "price": 391.0
+        "price": 380.0
     }
 }
