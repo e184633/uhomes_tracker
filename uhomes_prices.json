@@ -23,10 +23,6 @@
         "name": "Chapter Portobello",
         "price": 240.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1651838?schoolunique=imperial-college-london-icl": {
-        "name": "Chapter London Bridge",
-        "price": 491.0
-    },
     "https://en.uhomes.com/uk/london/detail-apartments-1657471?schoolunique=imperial-college-london-icl": {
         "name": "Canvas Student Arthur House",
         "price": 322.0
@@ -46,5 +42,9 @@
     "https://en.uhomes.com/uk/london/detail-apartments-221625?schoolunique=imperial-college-london-icl": {
         "name": "Mannequin House",
         "price": 260.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-564288?schoolunique=imperial-college-london-icl": {
+        "name": "Scape Wembley",
+        "price": 272.0
     }
 }
