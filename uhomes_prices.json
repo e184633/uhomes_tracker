@@ -1,23 +1,19 @@
 {
-    "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
-        "name": "Downing The Lyra",
-        "price": 340.0
-    },
     "https://en.uhomes.com/uk/london/detail-apartments-1654134?schoolunique=imperial-college-london-icl": {
         "name": "Scape Hammersmith",
-        "price": 459.0
+        "price": 469.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-793913?schoolunique=imperial-college-london-icl": {
-        "name": "Chapter Ealing",
-        "price": 247.0
+    "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
+        "name": "Downing The Lyra",
+        "price": 346.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-18585?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Portobello",
         "price": 234.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-13897?schoolunique=imperial-college-london-icl": {
-        "name": "iQ Hammersmith",
-        "price": 377.0
+    "https://en.uhomes.com/uk/london/detail-apartments-793913?schoolunique=imperial-college-london-icl": {
+        "name": "Chapter Ealing",
+        "price": 247.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1657471?schoolunique=imperial-college-london-icl": {
         "name": "Canvas Student Arthur House",
@@ -30,6 +26,10 @@
     "https://en.uhomes.com/uk/london/detail-apartments-1712081?schoolunique=imperial-college-london-icl": {
         "name": "Venti House",
         "price": 350.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-13897?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Hammersmith",
+        "price": 377.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1554694?schoolunique=imperial-college-london-icl": {
         "name": "Griffon Studios",
