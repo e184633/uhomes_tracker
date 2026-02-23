@@ -1,11 +1,11 @@
 {
-    "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
-        "name": "Downing The Lyra",
-        "price": 346.0
-    },
     "https://en.uhomes.com/uk/london/detail-apartments-1654134?schoolunique=imperial-college-london-icl": {
         "name": "Scape Hammersmith",
         "price": 450.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
+        "name": "Downing The Lyra",
+        "price": 346.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-793913?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Ealing",
@@ -27,10 +27,6 @@
         "name": "Griffon Studios",
         "price": 295.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-29064?schoolunique=imperial-college-london-icl": {
-        "name": "Chelsea Lightfoot Hall",
-        "price": 221.0
-    },
     "https://en.uhomes.com/uk/london/detail-apartments-1548386?schoolunique=imperial-college-london-icl": {
         "name": "Ravenscourt House",
         "price": 358.0
@@ -38,6 +34,10 @@
     "https://en.uhomes.com/uk/london/detail-apartments-1712081?schoolunique=imperial-college-london-icl": {
         "name": "Venti House",
         "price": 356.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-29064?schoolunique=imperial-college-london-icl": {
+        "name": "Chelsea Lightfoot Hall",
+        "price": 221.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
         "name": "Vita Student Lewisham Exchange",
