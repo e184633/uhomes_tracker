@@ -1,11 +1,15 @@
 {
-    "https://en.uhomes.com/uk/london/detail-apartments-1654134?schoolunique=imperial-college-london-icl": {
-        "name": "Scape Hammersmith",
-        "price": 473.0
+    "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
+        "name": "Vita Student Lewisham Exchange",
+        "price": 322.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
         "name": "Downing The Lyra",
         "price": 346.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-1654134?schoolunique=imperial-college-london-icl": {
+        "name": "Scape Hammersmith",
+        "price": 473.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-793913?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Ealing",
@@ -15,36 +19,32 @@
         "name": "Chapter Portobello",
         "price": 243.0
     },
+    "https://en.uhomes.com/uk/london/detail-apartments-13912?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Bankside",
+        "price": 474.0
+    },
     "https://en.uhomes.com/uk/london/detail-apartments-13897?schoolunique=imperial-college-london-icl": {
         "name": "iQ Hammersmith",
         "price": 377.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-18399?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Bloomsbury",
+        "price": 666.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-221625?schoolunique=imperial-college-london-icl": {
+        "name": "Mannequin House",
+        "price": 249.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1657471?schoolunique=imperial-college-london-icl": {
         "name": "Canvas Student Arthur House",
         "price": 329.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1554694?schoolunique=imperial-college-london-icl": {
-        "name": "Griffon Studios",
-        "price": 295.0
+    "https://en.uhomes.com/uk/london/detail-apartments-13888?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Shoreditch",
+        "price": 419.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1548386?schoolunique=imperial-college-london-icl": {
-        "name": "Ravenscourt House",
-        "price": 358.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-1712081?schoolunique=imperial-college-london-icl": {
-        "name": "Venti House",
-        "price": 360.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-29064?schoolunique=imperial-college-london-icl": {
-        "name": "Chelsea Lightfoot Hall",
-        "price": 221.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
-        "name": "Vita Student Lewisham Exchange",
-        "price": 322.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-13912?schoolunique=imperial-college-london-icl": {
-        "name": "iQ Bankside",
-        "price": 476.0
+    "https://en.uhomes.com/uk/london/detail-apartments-18594?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Sterling Court",
+        "price": 254.0
     }
 }
