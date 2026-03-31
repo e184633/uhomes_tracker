@@ -13,19 +13,15 @@
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
         "name": "Vita Student Lewisham Exchange",
-        "price": 339.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-1631588?schoolunique=imperial-college-london-icl": {
-        "name": "Lit Paddington Citi View",
-        "price": 468.0
+        "price": 329.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-18585?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Portobello",
-        "price": 255.0
+        "price": 248.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1554694?schoolunique=imperial-college-london-icl": {
         "name": "Griffon Studios",
-        "price": 329.0
+        "price": 328.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1554692?schoolunique=imperial-college-london-icl": {
         "name": "Wood Lane Studios",
@@ -33,11 +29,11 @@
     },
     "https://en.uhomes.com/uk/london/detail-apartments-18469?schoolunique=imperial-college-london-icl": {
         "name": "Portobello Garrow House",
-        "price": 229.0
+        "price": 233.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1478381?schoolunique=imperial-college-london-icl": {
         "name": "iQ Will Wyatt Court",
-        "price": 302.0
+        "price": 284.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-13912?schoolunique=imperial-college-london-icl": {
         "name": "iQ Bankside",
@@ -45,6 +41,10 @@
     },
     "https://en.uhomes.com/uk/london/detail-apartments-29064?schoolunique=imperial-college-london-icl": {
         "name": "Chelsea Lightfoot Hall",
-        "price": 221.0
+        "price": 224.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-13889?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Paris Gardens",
+        "price": 402.0
     }
 }
