@@ -1,7 +1,7 @@
 {
     "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
         "name": "Downing The Lyra",
-        "price": 331.0
+        "price": 343.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-13897?schoolunique=imperial-college-london-icl": {
         "name": "iQ Hammersmith",
@@ -9,11 +9,15 @@
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1654134?schoolunique=imperial-college-london-icl": {
         "name": "Scape Hammersmith",
-        "price": 453.0
+        "price": 480.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
         "name": "Vita Student Lewisham Exchange",
         "price": 329.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-1631588?schoolunique=imperial-college-london-icl": {
+        "name": "Lit Paddington Citi View",
+        "price": 480.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-18585?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Portobello",
@@ -42,9 +46,5 @@
     "https://en.uhomes.com/uk/london/detail-apartments-29064?schoolunique=imperial-college-london-icl": {
         "name": "Chelsea Lightfoot Hall",
         "price": 224.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-13889?schoolunique=imperial-college-london-icl": {
-        "name": "iQ Paris Gardens",
-        "price": 402.0
     }
 }
