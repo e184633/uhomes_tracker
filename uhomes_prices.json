@@ -3,13 +3,13 @@
         "name": "Downing The Lyra",
         "price": 356.0
     },
+    "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
+        "name": "Vita Student Lewisham Exchange",
+        "price": 346.0
+    },
     "https://en.uhomes.com/uk/london/detail-apartments-1654134?schoolunique=imperial-college-london-icl": {
         "name": "Scape Hammersmith",
         "price": 528.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-13897?schoolunique=imperial-college-london-icl": {
-        "name": "iQ Hammersmith",
-        "price": 465.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1525172?schoolunique=imperial-college-london-icl": {
         "name": "Wick Park",
@@ -19,6 +19,10 @@
         "name": "Lit Paddington Citi View",
         "price": 480.0
     },
+    "https://en.uhomes.com/uk/london/detail-apartments-13897?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Hammersmith",
+        "price": 465.0
+    },
     "https://en.uhomes.com/uk/london/detail-apartments-1504453?schoolunique=imperial-college-london-icl": {
         "name": "iQ Vega",
         "price": 383.0
@@ -27,24 +31,20 @@
         "name": "Chapter London Bridge",
         "price": 489.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
-        "name": "Vita Student Lewisham Exchange",
-        "price": 341.0
+    "https://en.uhomes.com/uk/london/detail-apartments-726004?schoolunique=imperial-college-london-icl": {
+        "name": "Chapter White City",
+        "price": 395.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-18585?schoolunique=imperial-college-london-icl": {
-        "name": "Chapter Portobello",
-        "price": 364.0
+    "https://en.uhomes.com/uk/london/detail-apartments-793913?schoolunique=imperial-college-london-icl": {
+        "name": "Chapter Ealing",
+        "price": 267.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1554692?schoolunique=imperial-college-london-icl": {
         "name": "Wood Lane Studios",
         "price": 444.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1548386?schoolunique=imperial-college-london-icl": {
-        "name": "Ravenscourt House",
-        "price": 358.0
-    },
     "https://en.uhomes.com/uk/london/detail-apartments-736275?schoolunique=imperial-college-london-icl": {
         "name": "Fulham Palace Studios",
-        "price": 404.0
+        "price": 409.0
     }
 }
