@@ -1,4 +1,8 @@
 {
+    "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
+        "name": "The Lyra",
+        "price": 364.0
+    },
     "https://en.uhomes.com/uk/london/detail-apartments-1654134?schoolunique=imperial-college-london-icl": {
         "name": "Scape Hammersmith",
         "price": 492.0
@@ -7,44 +11,40 @@
         "name": "iQ Hammersmith",
         "price": 465.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1504453?schoolunique=imperial-college-london-icl": {
-        "name": "iQ Vega",
-        "price": 383.0
-    },
     "https://en.uhomes.com/uk/london/detail-apartments-1525172?schoolunique=imperial-college-london-icl": {
         "name": "Wick Park",
+        "price": 383.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-1504453?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Vega",
         "price": 383.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-793913?schoolunique=imperial-college-london-icl": {
         "name": "Chapter Ealing",
         "price": 292.0
     },
+    "https://en.uhomes.com/uk/london/detail-apartments-726004?schoolunique=imperial-college-london-icl": {
+        "name": "Chapter White City",
+        "price": 399.0
+    },
     "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
         "name": "Vita Student Lewisham Exchange",
-        "price": 357.0
+        "price": 366.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-733730?schoolunique=imperial-college-london-icl": {
-        "name": "Chapter Highbury II",
-        "price": 439.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-18585?schoolunique=imperial-college-london-icl": {
-        "name": "Chapter Portobello",
-        "price": 424.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-13352?schoolunique=imperial-college-london-icl": {
-        "name": "The Lyra",
-        "price": 364.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-1554694?schoolunique=imperial-college-london-icl": {
-        "name": "Griffon Studios",
-        "price": 387.0
+    "https://en.uhomes.com/uk/london/detail-apartments-1400987?schoolunique=imperial-college-london-icl": {
+        "name": "Scape Mile End",
+        "price": 319.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-29064?schoolunique=imperial-college-london-icl": {
         "name": "Lightfoot Hall",
         "price": 216.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-726004?schoolunique=imperial-college-london-icl": {
-        "name": "Chapter White City",
-        "price": 399.0
+    "https://en.uhomes.com/uk/london/detail-apartments-1554694?schoolunique=imperial-college-london-icl": {
+        "name": "Griffon Studios",
+        "price": 406.0
+    },
+    "https://en.uhomes.com/uk/london/detail-apartments-564288?schoolunique=imperial-college-london-icl": {
+        "name": "Scape Wembley",
+        "price": 283.0
     }
 }
