@@ -7,13 +7,9 @@
         "name": "Vita Student Lewisham Exchange",
         "price": 309.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-18370?schoolunique=imperial-college-london-icl": {
-        "name": "Felda House Wembley",
-        "price": 203.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-726004?schoolunique=imperial-college-london-icl": {
-        "name": "Chapter White City",
-        "price": 382.0
+    "https://en.uhomes.com/uk/london/detail-apartments-542658?schoolunique=imperial-college-london-icl": {
+        "name": "McMillan Student Village",
+        "price": 195.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-564288?schoolunique=imperial-college-london-icl": {
         "name": "Scape Wembley",
@@ -23,6 +19,10 @@
         "name": "Scape Bloomsbury",
         "price": 355.0
     },
+    "https://en.uhomes.com/uk/london/detail-apartments-13888?schoolunique=imperial-college-london-icl": {
+        "name": "iQ Shoreditch",
+        "price": 522.0
+    },
     "https://en.uhomes.com/uk/london/detail-apartments-13913?schoolunique=imperial-college-london-icl": {
         "name": "iQ Highbury",
         "price": 317.0
@@ -31,13 +31,13 @@
         "name": "iQ East Court",
         "price": 374.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1504453?schoolunique=imperial-college-london-icl": {
-        "name": "iQ Vega",
-        "price": 402.0
+    "https://en.uhomes.com/uk/london/detail-apartments-221625?schoolunique=imperial-college-london-icl": {
+        "name": "Mannequin House",
+        "price": 239.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1657471?schoolunique=imperial-college-london-icl": {
-        "name": "Canvas Wembley Arthur House",
-        "price": 361.0
+    "https://en.uhomes.com/uk/london/detail-apartments-18864?schoolunique=imperial-college-london-icl": {
+        "name": "Dashwood Studios",
+        "price": 404.0
     },
     "https://en.uhomes.com/uk/london/detail-apartments-1400987?schoolunique=imperial-college-london-icl": {
         "name": "Scape Mile End",
