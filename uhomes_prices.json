@@ -1,50 +1,42 @@
 {
-    "https://en.uhomes.com/uk/london/detail-apartments-1502973?schoolunique=imperial-college-london-icl": {
-        "name": "Vita Student Lewisham Exchange",
-        "price": 309.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-1623102?schoolunique=australian-institute-of-music": {
+        "name": "21 Dunkerley Place",
+        "price": 1690.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-230352?schoolunique=imperial-college-london-icl": {
-        "name": "Olympic Way",
-        "price": 275.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-705913?schoolunique=the-university-of-new-south-wales": {
+        "name": "Scape Darling House",
+        "price": 708.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1655401?schoolunique=imperial-college-london-icl": {
-        "name": "Fifty One London",
-        "price": 840.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-1610336?schoolunique=the-university-of-sydney": {
+        "name": "Castle Camperdown Two",
+        "price": 558.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-545687?schoolunique=imperial-college-london-icl": {
-        "name": "Prince Consort Village",
-        "price": 385.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-1655813?schoolunique=the-university-of-sydney": {
+        "name": "Oliver's place",
+        "price": 899.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-1654134?schoolunique=imperial-college-london-icl": {
-        "name": "Scape Hammersmith",
-        "price": 533.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-1756317?schoolunique=the-university-of-sydney": {
+        "name": "26 Sparkes St",
+        "price": 750.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-564288?schoolunique=imperial-college-london-icl": {
-        "name": "Scape Wembley",
-        "price": 316.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-1688667?schoolunique=macquarie-business-school": {
+        "name": "EPIISOD Macquarie Park",
+        "price": 587.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-785069?schoolunique=imperial-college-london-icl": {
-        "name": "Scape Bloomsbury",
-        "price": 355.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-469559?schoolunique=the-university-of-sydney": {
+        "name": "Iglu Central Park Student Accommodation",
+        "price": 785.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-221625?schoolunique=imperial-college-london-icl": {
-        "name": "Mannequin House",
-        "price": 239.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-593261?schoolunique=the-university-of-sydney": {
+        "name": "Iglu Redfern Student Accommodation",
+        "price": 725.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-13912?schoolunique=imperial-college-london-icl": {
-        "name": "iQ Bankside",
-        "price": 499.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-1709098?schoolunique=the-university-of-notre-dame-sydney-campus": {
+        "name": "Accolade On Gibbons",
+        "price": 569.0
     },
-    "https://en.uhomes.com/uk/london/detail-apartments-18087?schoolunique=imperial-college-london-icl": {
-        "name": "iQ Tufnell House",
-        "price": 298.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-1400987?schoolunique=imperial-college-london-icl": {
-        "name": "Scape Mile End",
-        "price": 349.0
-    },
-    "https://en.uhomes.com/uk/london/detail-apartments-17960?schoolunique=imperial-college-london-icl": {
-        "name": "Scape Shoreditch",
-        "price": 454.0
+    "https://en.uhomes.com/au/sydney/detail-apartments-1689622?schoolunique=south-australian-institute-of-business-and-technology-pty-ltd": {
+        "name": "Iglu Waterloo Student Accommodation",
+        "price": 725.0
     }
 }
